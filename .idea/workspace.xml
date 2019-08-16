@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4c87106-f948-48d2-82a3-204ca7e5dbed" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1PTH0PkuZeHgasAhHsQrEbKtedH" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../activator-hello-akka" value="1473782986000" />
+        <entry key="$PROJECT_DIR$/../hubmedia-contributioncommons" value="1470129861000" />
+        <entry key="$PROJECT_DIR$/../hubmedia-contributionprocessors" value="1468263801000" />
+        <entry key="$PROJECT_DIR$/../hubmedia-contributionrestservices" value="1471341836000" />
+        <entry key="$PROJECT_DIR$/../hubmedia-soapgateway" value="1473954445000" />
+        <entry key="$PROJECT_DIR$/../play-slick" value="7380963520000" />
+        <entry key="$PROJECT_DIR$/../rocket-assetservices" value="1488874153000" />
+        <entry key="$PROJECT_DIR$/../rocket-filewatcher" value="1487868266000" />
+        <entry key="$PROJECT_DIR$/../rocket-ingestprocessors" value="1489657089000" />
+        <entry key="$PROJECT_DIR$/../rocket-ingestservices" value="1487845737000" />
+        <entry key="$PROJECT_DIR$/../rocket-userservices" value="2977589128000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/MediaHub_SOutters" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/canalplus" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-sandbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../flyway-sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../mediahub_test/media_hub_test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../playsandbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-baton-sdk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-dalet-sdk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-docapi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-docapi-play" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-docstore" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-filewatcher" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-ingestprocessors" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-linkmon" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-mamedgar" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-notificationmanager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-orchestrator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-overlord" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-overlord-engine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-vuxreader" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-vuxwatcher" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rocket-workers" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/test_cesar" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4c87106-f948-48d2-82a3-204ca7e5dbed" name="Default Changelist" comment="" />
+      <created>1565890942149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565890942149</updated>
+      <workItem from="1565890943346" duration="11641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

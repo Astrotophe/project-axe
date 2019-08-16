@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="membrane_element_audiometer" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/membrane_element_audiometer/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/membrane_element_audiometer/lib" />
+    </SOURCES>
+  </library>
+</component>
